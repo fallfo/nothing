@@ -20,7 +20,7 @@
 
 ### b. Git Bash Here
 
-安装好git后，鼠标右建新增`Git Bash Here`操作，可以使用一些命令操作，例如`ls`
+安装好git后，鼠标右建新增`Git Bash Here`选项，可以使用一些命令操作，例如`ls`
 
 ![Bash](./figs/Bash.jpg)
 
@@ -69,7 +69,7 @@ git config --global user.email "your-mail@mail.com"
 
 ![push1](./figs/push.jpg)
 
-提交完成后，打开网址可以看到代码已经上传，且commits处有上传的记录可以看到此次上传的具体修改。
+提交完成后，打开网址可以看到代码已经上传，且commits处有上传的记录，点击可以看到此次上传的具体修改。
 
 ![](./figs/push1.jpg)
 
@@ -77,5 +77,5 @@ git config --global user.email "your-mail@mail.com"
 
 
 
-至此，基础操作完成。其他
+至此，基础操作完成。
 
