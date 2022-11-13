@@ -51,3 +51,19 @@ git clone https://github.com/fallfo/nothing.git
 ### e. git add && git commit
 
 如果代码状态无误，可以通过指令`git add .`将所有修改提交，然后通过指令`git commit -m "更新说明"`记录这次更新的目的
+
+![](./figs/commit.png)
+
+ps. 初次`commit`需要设置`user.name` `user.email`
+
+```bash
+git config --global user.name "yourname"
+git config --global user.email "your-mail@mail.com"
+```
+
+
+
+### f. git push
+
+`commit`之后可以通过指令`git push`上传修改，初次使用会弹窗，可选择浏览器然后与GitHub账号绑定
+
